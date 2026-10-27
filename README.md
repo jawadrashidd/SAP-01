@@ -179,3 +179,9 @@ Program the RAM with the address and data switches, reset, then run the clock.
 ## Documentation
 
 Theory, block diagrams and module notes are in `SAP 01 Documentation.docx`.
+
+## AI Use Declaration
+
+All technical content in this repository (circuit design, Proteus implementation, module descriptions, instruction set, microinstructions, Boolean expressions and problems faced) comes from the team's own work, documented in SAP 01 Documentation.docx.
+
+This README was written from that document with the help of an AI assistant (Claude, by Anthropic). The AI was used only to organize and format the existing content into this README, including its tables, headings and summaries. It did not design or simulate any part of the circuit, and it added no technical content beyond what the original documentation contains. I reviewed this README and take responsibility for its accuracy.
